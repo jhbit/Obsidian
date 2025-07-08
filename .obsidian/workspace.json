@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "38f0193075e9cbb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "818770876b2f736f",
+        "type": "tabs",
+        "dimension": 68.45425867507886,
+        "children": [
+          {
+            "id": "94656038f723e696",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9fc5194d6cb157e7",
+        "type": "tabs",
+        "dimension": 31.545741324921135,
+        "children": [
+          {
+            "id": "f97ad104f138eadb",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV1oz42197bm/"
+              },
+              "icon": "bilibili",
+              "title": "【BLE系列课】6.2.1 低功耗蓝牙(BLE)的协议体系结构1 - bilibili"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85b002d60cf578bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "142b2f6311bad611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a325041eebc7dd6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "df341e8d86ceb461",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ebae92a38c327aa6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "072ab3a263f972db",
+    "type": "split",
+    "children": [
+      {
+        "id": "5014abe239543dc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48e2574d63888167",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "fb13ac7e5749c598",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "dbbbc7880db6275c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "703fc20b089ced67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "94656038f723e696",
+  "lastOpenFiles": [
+    "创建链接.md",
+    "Lacan/欲望图.md",
+    "Media Note - 【BLE系列课】6.2.1 低功耗蓝牙(BLE)的协议体系结构1.md",
+    "蓝牙/彻底了解 BLE mesh   - CSDN 博客.md",
+    "蓝牙/蓝牙协议栈介绍 - CSDN 博客.md",
+    "蓝牙/ST 2.4GHz课程——BLE.md",
+    "欢迎.md",
+    "蓝牙",
+    "Lacan",
+    "未命名.canvas",
+    "2025-07-04.md",
+    "未命名 1.canvas"
+  ]
+}
