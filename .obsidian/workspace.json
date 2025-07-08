@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "818770876b2f736f",
+        "id": "b6836c3bee2ff440",
         "type": "tabs",
-        "dimension": 68.45425867507886,
         "children": [
           {
-            "id": "94656038f723e696",
+            "id": "dd45497740137ad3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9fc5194d6cb157e7",
-        "type": "tabs",
-        "dimension": 31.545741324921135,
-        "children": [
-          {
-            "id": "f97ad104f138eadb",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
+              "type": "markdown",
               "state": {
-                "source": "https://www.bilibili.com/video/BV1oz42197bm/"
+                "file": "Lacan/欲望图.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "bilibili",
-              "title": "【BLE系列课】6.2.1 低功耗蓝牙(BLE)的协议体系结构1 - bilibili"
+              "icon": "lucide-file",
+              "title": "欲望图"
             }
           }
         ]
@@ -128,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lacan/欲望图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "欲望图 的出链列表"
             }
           },
           {
@@ -163,13 +148,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "650c27e49aae8955",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 257.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,17 +174,20 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94656038f723e696",
+  "active": "dd45497740137ad3",
   "lastOpenFiles": [
-    "创建链接.md",
-    "Lacan/欲望图.md",
+    "蓝牙/ST 2.4GHz课程——BLE.md",
     "Media Note - 【BLE系列课】6.2.1 低功耗蓝牙(BLE)的协议体系结构1.md",
+    "Lacan/欲望图.md",
+    "【欲望】2，欲望图式一(能指主体)PT1M21.849S.webp",
+    "Media Note - 【欲望】2，欲望图式一(能指主体).md",
+    "创建链接.md",
     "蓝牙/彻底了解 BLE mesh   - CSDN 博客.md",
     "蓝牙/蓝牙协议栈介绍 - CSDN 博客.md",
-    "蓝牙/ST 2.4GHz课程——BLE.md",
     "欢迎.md",
     "蓝牙",
     "Lacan",
