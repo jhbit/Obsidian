@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b6836c3bee2ff440",
+        "id": "818770876b2f736f",
         "type": "tabs",
         "children": [
           {
-            "id": "dd45497740137ad3",
+            "id": "94656038f723e696",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lacan/欲望图.md",
+                "file": "蓝牙/彻底了解 BLE mesh   - CSDN 博客.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欲望图"
+              "title": "彻底了解 BLE mesh   - CSDN 博客"
             }
           }
         ]
@@ -112,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lacan/欲望图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欲望图 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -141,16 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "蓝牙/彻底了解 BLE mesh   - CSDN 博客.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "彻底了解 BLE mesh   - CSDN 博客 的大纲"
             }
           },
           {
-            "id": "650c27e49aae8955",
+            "id": "4f4dd542fc537a3d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 235.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,20 +178,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd45497740137ad3",
+  "active": "94656038f723e696",
   "lastOpenFiles": [
-    "蓝牙/ST 2.4GHz课程——BLE.md",
-    "Media Note - 【BLE系列课】6.2.1 低功耗蓝牙(BLE)的协议体系结构1.md",
-    "Lacan/欲望图.md",
-    "【欲望】2，欲望图式一(能指主体)PT1M21.849S.webp",
-    "Media Note - 【欲望】2，欲望图式一(能指主体).md",
-    "创建链接.md",
+    "Pasted image 20250709134005.png",
     "蓝牙/彻底了解 BLE mesh   - CSDN 博客.md",
     "蓝牙/蓝牙协议栈介绍 - CSDN 博客.md",
+    "Lacan/欲望图.md",
+    "蓝牙/ST 2.4GHz课程——BLE.md",
+    "创建链接.md",
+    "未命名.canvas",
+    "simpread-key-内含UID，请勿遗失.json",
+    "Media Note - 【BLE系列课】6.2.1 低功耗蓝牙(BLE)的协议体系结构1.md",
     "欢迎.md",
     "蓝牙",
     "Lacan",
-    "未命名.canvas",
     "2025-07-04.md",
     "未命名 1.canvas"
   ]

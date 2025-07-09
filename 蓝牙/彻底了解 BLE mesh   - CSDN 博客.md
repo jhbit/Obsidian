@@ -154,7 +154,7 @@ Model 层定义了典型的用户场景标准化操作的相关 models（相关�
 
 ![](https://i-blog.csdnimg.cn/img_convert/c17d7d2615ec0581ec39a3bf2c330e11.png)
 
-把这块差分开就如下所示：
+把这块拆分开就如下所示：
 
 ![](https://i-blog.csdnimg.cn/img_convert/2c248ceccb246d25e34d4e72a710858a.png)
 
@@ -170,7 +170,7 @@ Model 层定义了典型的用户场景标准化操作的相关 models（相关�
 
 配置承载层是 BLE Mesh 中负责在配置过程中传输数据的基础层。不同的承载层提供了不同的传输方式，用于将配置数据从配置器（Provisioner）传输到未配置设备 (unprovisioned device)。以下是常见的配置承载层：
 
-**PB-ADV（广告承载）**：
+**PB-ADV（广播承载）**：
 
 *   *   通过广播（Advertising）方式传输配置数据。
     *   使用 BLE 广播通道，适合近距离设备间的配置。
@@ -198,9 +198,9 @@ PB-ADV 是一种配置承载层，用于通过广播信道（advertising channel
 
 使用 PB-ADV 时，配置器 (Provisioner) 应扮演 PB-ADV 客户端角色，未配置设备 (unprovisioned device) 应扮演 PB-ADV 服务器角色。PB-ADV 承载层用于传输通用配置 PDU。PB-ADV 承载层的最大传输单元（MTU）大小为 24 个字节。
 
-使用 PB-ADV 时，通用配置 PDU 应通过由 «PB-ADV» 标识的 PB-ADV 广告类型（AD type）发送。支持 PB-ADV 的配置器和未配置设备应尽可能接近 100% 的占空比进行被动扫描，以避免错过任何传入的 PB-ADV PDU。
+使用 PB-ADV 时，通用配置 PDU 应通过由 «PB-ADV» 标识的 PB-ADV 广播类型（AD type）发送。支持 PB-ADV 的配置器和未配置设备应尽可能接近 100% 的占空比进行被动扫描，以避免错过任何传入的 PB-ADV PDU。
 
-PB-ADV 广告类型包含一个 PB-ADV PDU 字段。PB-ADV 广告类型的格式定义见表
+PB-ADV 广播类型包含一个 PB-ADV PDU 字段。PB-ADV 广播类型的格式定义见表
 
 ![](https://i-blog.csdnimg.cn/img_convert/fe02c9cd5cb8e263d7ddc7672f53c0ee.png)
 
@@ -416,7 +416,7 @@ PB-GATT 服务器应能够在一个或多个 ATT PDU 中接收代理 PDU。根�
 
 Padding=0b000000，GPCF=**0b01**，Data 域为空。
 
-##### ⅲ. **Transaction Continuation**
+##### ⅲ. Transaction Continuation
 
 表示传输分段消息附加段，其数据格式如下：
 
@@ -428,7 +428,7 @@ Padding=0b000000，GPCF=**0b01**，Data 域为空。
 
 ![](https://i-blog.csdnimg.cn/img_convert/b03114fea7e8a78de42b9af17467ec83.png)
 
-##### ⅳ. **Transaction Bearer Control**
+##### ⅳ. Transaction Bearer Control
 
 用于管理承载层的会话，即建立配网者与未配网设备的通道，其数据格式如下：
 
@@ -674,7 +674,7 @@ Provisioning PDUs 的消息格式如下：
 
 ![](https://i-blog.csdnimg.cn/img_convert/69633fb88bec1bb1c6167be7dc3714e9.png)
 
-#### e. **Provisioning Input Complete**
+#### e. Provisioning Input Complete
 
 未配网设备发送此消息，表明 Input 操作完成，参数域为空。
 
