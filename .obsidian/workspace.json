@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b6836c3bee2ff440",
+        "id": "5e020d9e9ede8ebe",
         "type": "tabs",
         "children": [
           {
-            "id": "dd45497740137ad3",
+            "id": "832c063e725774d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lacan/欲望图.md",
+                "file": "simpread-吐血推荐历史最全的蓝牙协议栈介绍 - CSDN 博客.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欲望图"
+              "title": "simpread-吐血推荐历史最全的蓝牙协议栈介绍 - CSDN 博客"
+            }
+          },
+          {
+            "id": "c32279738872038c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/715.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "715"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "072ab3a263f972db",
@@ -142,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lacan/欲望图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欲望图 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -180,15 +193,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd45497740137ad3",
+  "active": "c32279738872038c",
   "lastOpenFiles": [
-    "Lacan/欲望图.md",
+    "Pasted image 20250715165707.png",
+    "Pasted image 20250715150131.png",
+    "Pasted image 20250715150050.png",
+    "Pasted image 20250715142227.png",
+    "Pasted image 20250715134258.png",
+    "Pasted image 20250715134127.png",
+    "Pasted image 20250715134048.png",
+    "ismism",
+    "work",
     "Media Note - 【BLE系列课】6.2.1 低功耗蓝牙(BLE)的协议体系结构1.md",
-    "创建链接.md",
-    "[【BLE系列课】6.2.3.md",
-    "蓝牙/ST 2.4GHz课程——BLE.md",
-    "蓝牙/彻底了解 BLE mesh   - CSDN 博客.md",
+    "work/715.md",
+    "simpread-吐血推荐历史最全的蓝牙协议栈介绍 - CSDN 博客.md",
     "蓝牙/蓝牙协议栈介绍 - CSDN 博客.md",
+    "Leave.md",
+    "Lacan/欲望图.md",
+    "[【BLE系列课】6.2.3.md",
+    "创建链接.md",
+    "蓝牙/彻底了解 BLE mesh   - CSDN 博客.md",
+    "蓝牙/ST 2.4GHz课程——BLE.md",
     "Pasted image 20250709134005.png",
     "【欲望】2，欲望图式一(能指主体)PT1M21.849S.webp",
     "Media Note - 【欲望】2，欲望图式一(能指主体).md",
