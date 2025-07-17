@@ -10,7 +10,7 @@
     • 8 = 55 nm 工艺  
     • 9 = 22 nm 工艺  
     • 2 = 早期 40 nm 工艺  
-    例：TLSR**8**25x、TLSR**9**21x、TL721x。
+    例：TLSR825x、TLSR921x、TL721x。
     
 3. 容量与版本（中段数字）  
     • 25x：512 kB Flash  
@@ -58,3 +58,13 @@ RAM多大
 Flash多大（OTA要做吗）
 封装？
 MCU（T- MCU / Risc-V）
+
+[Telink快速入门](https://doc.telink-semi.cn/doc/zh/software/res/quickstart/Telink_IoT_develop_process_cn/)
+
+[Telink wiki](https://wiki.telink-semi.cn/wiki/)
+
+lib是闭源的，有文档做介绍。
+
+BLUENRG-232 价格 9.34 ？
+BLUENRG 蓝牙模块 价格 13
+TL 价格 10
