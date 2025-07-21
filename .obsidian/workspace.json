@@ -8,33 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3df76cb398181a0c",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
-            }
-          },
-          {
             "id": "a0d4971bbed936f5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "蓝牙/计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library).pdf",
-                "page": 2,
-                "left": -4,
-                "top": 225,
-                "zoom": 0.97
+                "file": "蓝牙/每周三会议记录.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library)"
+              "icon": "lucide-file",
+              "title": "每周三会议记录"
             }
           }
         ]
@@ -180,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 601.5
+    "width": 488.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,26 +181,26 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3df76cb398181a0c",
+  "active": "a0d4971bbed936f5",
   "lastOpenFiles": [
+    "蓝牙/每周三会议记录.md",
+    "蓝牙/蓝牙芯片选型与评估.md",
+    "蓝牙/蓝牙协议栈介绍 - CSDN 博客.md",
+    "蓝牙/ST 2.4GHz——BLE.md",
+    "蓝牙/Telink IoT Studio.md",
+    "蓝牙/计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library).pdf",
+    "蓝牙/彻底了解 BLE mesh   - CSDN 博客.md",
+    "conflict-files-obsidian-git.md",
     "《计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library)》阅读笔记.md",
     "《Getting Started with Bluetooth Low Energy Tools and Techniques for Low-Power Networking (Kevin Townsend, Carles Cufí, Akiba etc.) (Z-Library)》阅读笔记.md",
     "蓝牙/Getting Started with Bluetooth Low Energy Tools and Techniques for Low-Power Networking (Kevin Townsend, Carles Cufí, Akiba etc.) (Z-Library).pdf",
     "新建文本文档.txt",
-    "蓝牙/计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library).pdf",
     "《Getting Started with Bluetooth Low Energy Tools and Techniques for Low-Power Networking (Kevin Townsend, Carles Cufí, Akiba etc.) (Z-Library)》阅读笔记 1.md",
     "未命名.md",
     "阅读笔记模板.md",
-    "蓝牙/ST 2.4GHz——BLE.md",
-    "蓝牙/彻底了解 BLE mesh   - CSDN 博客.md",
-    "蓝牙/Telink IoT Studio.md",
     "work/719.md",
     "work/718.md",
-    "蓝牙/每周三会议记录.md",
-    "蓝牙/蓝牙芯片选型与评估.md",
-    "蓝牙/蓝牙协议栈介绍 - CSDN 博客.md",
     "Media Note - 【BLE系列课】6.2.1 低功耗蓝牙(BLE)的协议体系结构1.md",
-    "conflict-files-obsidian-git.md",
     "创建链接.md",
     "work/715.md",
     "Lacan/欲望图.md",
