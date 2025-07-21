@@ -8,35 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "832c063e725774d9",
+            "id": "3df76cb398181a0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "work/716.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "716"
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           },
           {
-            "id": "c32279738872038c",
+            "id": "a0d4971bbed936f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "work/717.md",
-                "mode": "source",
-                "source": false
+                "file": "蓝牙/计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library).pdf",
+                "page": 2,
+                "left": -4,
+                "top": 225,
+                "zoom": 0.97
               },
-              "icon": "lucide-file",
-              "title": "717"
+              "icon": "lucide-file-text",
+              "title": "计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/717.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "717 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 601.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,30 +191,45 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "media-extended:Open media": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c32279738872038c",
+  "active": "3df76cb398181a0c",
   "lastOpenFiles": [
+    "《计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library)》阅读笔记.md",
+    "《Getting Started with Bluetooth Low Energy Tools and Techniques for Low-Power Networking (Kevin Townsend, Carles Cufí, Akiba etc.) (Z-Library)》阅读笔记.md",
+    "蓝牙/Getting Started with Bluetooth Low Energy Tools and Techniques for Low-Power Networking (Kevin Townsend, Carles Cufí, Akiba etc.) (Z-Library).pdf",
+    "新建文本文档.txt",
+    "蓝牙/计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library).pdf",
+    "《Getting Started with Bluetooth Low Energy Tools and Techniques for Low-Power Networking (Kevin Townsend, Carles Cufí, Akiba etc.) (Z-Library)》阅读笔记 1.md",
+    "未命名.md",
+    "阅读笔记模板.md",
+    "蓝牙/ST 2.4GHz——BLE.md",
+    "蓝牙/彻底了解 BLE mesh   - CSDN 博客.md",
+    "蓝牙/Telink IoT Studio.md",
+    "work/719.md",
+    "work/718.md",
+    "蓝牙/每周三会议记录.md",
+    "蓝牙/蓝牙芯片选型与评估.md",
+    "蓝牙/蓝牙协议栈介绍 - CSDN 博客.md",
+    "Media Note - 【BLE系列课】6.2.1 低功耗蓝牙(BLE)的协议体系结构1.md",
+    "conflict-files-obsidian-git.md",
+    "创建链接.md",
     "work/715.md",
+    "Lacan/欲望图.md",
     "work/716.md",
     "work/717.md",
     "Pasted image 20250717191321.png",
     "Pasted image 20250717170539.png",
-    "蓝牙/彻底了解 BLE mesh   - CSDN 博客.md",
-    "蓝牙/每周三会议记录.md",
-    "蓝牙/蓝牙协议栈介绍 - CSDN 博客.md",
     "蓝牙/Telink芯片选型与评估.md",
-    "蓝牙/ST 2.4GHz——BLE.md",
     "Leave.md",
     "Pasted image 20250716185611.png",
     "Pasted image 20250716122129.png",
     "[【BLE系列课】6.2.3.md",
-    "Lacan/欲望图.md",
-    "Media Note - 【BLE系列课】6.2.1 低功耗蓝牙(BLE)的协议体系结构1.md",
     "Problem Set.md",
-    "未命名.md",
-    "simpread-吐血推荐历史最全的蓝牙协议栈介绍 - CSDN 博客.md",
     "Pasted image 20250715165707.png",
     "Pasted image 20250715150131.png",
     "Pasted image 20250715150050.png",
@@ -223,13 +238,9 @@
     "Pasted image 20250715134127.png",
     "ismism",
     "work",
-    "创建链接.md",
-    "Media Note - 【欲望】2，欲望图式一(能指主体).md",
-    "欢迎.md",
     "蓝牙",
     "Lacan",
     "未命名.canvas",
-    "2025-07-04.md",
     "未命名 1.canvas"
   ]
 }
