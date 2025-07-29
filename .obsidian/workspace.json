@@ -4,77 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "a7bfeafdd12b9150",
+        "id": "ee5ce167e2e2c5c7",
         "type": "tabs",
+        "dimension": 36.891117478510026,
         "children": [
           {
-            "id": "94c54c90dd73b9c3",
+            "id": "af4feb48592273e2",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "接口/Configuration Scrubbing Architectures for High-Reliability FPGA S.pdf",
-                "page": 86,
-                "left": 40,
-                "top": 597,
-                "zoom": 1.3
+                "file": "Lacan/A Clinical Introduction to Lacanian Psychoanalysis Theory and Technique (Bruce Fink) (Z-Library).pdf",
+                "page": 7,
+                "left": 12,
+                "top": 447,
+                "zoom": 1.1
               },
               "icon": "lucide-file-text",
-              "title": "Configuration Scrubbing Architectures for High-Reliability FPGA S"
-            }
-          },
-          {
-            "id": "6fcd0a1de728f30f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "蓝牙/计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library).pdf",
-                "page": 88,
-                "left": -48,
-                "top": 440,
-                "zoom": 0.8
-              },
-              "icon": "lucide-file-text",
-              "title": "计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library)"
+              "title": "A Clinical Introduction to Lacanian Psychoanalysis Theory and Technique (Bruce Fink) (Z-Library)"
             }
           }
         ]
       },
       {
-        "id": "1091f2a2ec0248e0",
+        "id": "734ae69f4196aa46",
         "type": "tabs",
+        "dimension": 63.108882521489974,
         "children": [
           {
-            "id": "a7304f233228e867",
+            "id": "976e9b0e889d7448",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "《Intro to Bluetooth Low Energy (Mohammad Afaneh) (Z-Library)》阅读笔记.md",
+                "file": "《A Clinical Introduction to Lacanian Psychoanalysis Theory and Technique (Bruce Fink) (Z-Library)》阅读笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "《Intro to Bluetooth Low Energy (Mohammad Afaneh) (Z-Library)》阅读笔记"
-            }
-          },
-          {
-            "id": "3ee4ca1dabea6e92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library)》阅读笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "《计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library)》阅读笔记"
+              "title": "《A Clinical Introduction to Lacanian Psychoanalysis Theory and Technique (Bruce Fink) (Z-Library)》阅读笔记"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "072ab3a263f972db",
@@ -194,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "接口/Configuration Scrubbing Architectures for High-Reliability FPGA S.pdf",
+                "file": "蓝牙/蓝牙芯片选型与评估.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Configuration Scrubbing Architectures for High-Reliability FPGA S 的大纲"
+              "title": "蓝牙芯片选型与评估 的大纲"
             }
           },
           {
@@ -218,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 257.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,53 +207,50 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "650c27e49aae8955",
+  "active": "af4feb48592273e2",
   "lastOpenFiles": [
-    "蓝牙/计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library).pdf",
-    "接口/Configuration Scrubbing Architectures for High-Reliability FPGA S.pdf",
-    "《计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library)》阅读笔记.md",
-    "《Telink SIG Mesh SDK Developer Handbook》阅读笔记.md",
-    "《Intro to Bluetooth Low Energy (Mohammad Afaneh) (Z-Library)》阅读笔记.md",
-    "蓝牙/Intro to Bluetooth Low Energy (Mohammad Afaneh) (Z-Library).pdf",
+    "《A Clinical Introduction to Lacanian Psychoanalysis Theory and Technique (Bruce Fink) (Z-Library)》阅读笔记.md",
+    "Lacan/A Clinical Introduction to Lacanian Psychoanalysis Theory and Technique (Bruce Fink) (Z-Library).pdf",
+    "Lacan/欲望图-李爽君.md",
+    "Lacan/A Clinical Introduction to Lacanian Psychoanalysis Theory and Technique.md",
+    "蓝牙/A Clinical Introduction to Lacanian Psychoanalysis Theory and Technique (Bruce Fink) (Z-Library).pdf",
+    "蓝牙/Telink IoT Studio使用经验.md",
     "蓝牙/ST 2.4GHz——BLE.md",
-    "接口/FPGE配置接口.md",
-    "接口",
-    "蓝牙/Getting Started with Bluetooth Low Energy Tools and Techniques for Low-Power Networking (Kevin Townsend, Carles Cufí, Akiba etc.) (Z-Library).pdf",
-    "蓝牙/《Getting Started with Bluetooth Low Energy Tools and Techniques for Low-Power Networking (Kevin Townsend, Carles Cufí, Akiba etc.) (Z-Library)》阅读笔记.md",
-    "蓝牙/蓝牙知识QA.md",
-    "蓝牙/Telink SIG Mesh SDK Developer Handbook.pdf",
-    "蓝牙/蓝牙芯片选型与评估.md",
-    "蓝牙/Telink B85m BLE Single Connection SDK Developer Handbook.pdf",
-    "蓝牙/泰凌微 B85 Mesh Starter Kit - Telink wiki.md",
-    "蓝牙/《Telink B85m BLE Single Connection SDK Developer Handbook》阅读笔记.md",
-    "蓝牙/Telink BLE Multiple Connection SDK Developer Handbook.pdf",
     "蓝牙/泰凌微烧录调试工具 (Windows) - Telink Documents.md",
     "蓝牙/泰凌微测试 - CSDN.md",
-    "蓝牙/彻底了解 BLE mesh   - CSDN 博客.md",
-    "蓝牙/Telink IoT Studio使用经验.md",
+    "蓝牙/泰凌微 B85 Mesh Starter Kit - Telink wiki.md",
+    "蓝牙/蓝牙知识QA.md",
+    "蓝牙/蓝牙芯片选型与评估.md",
     "蓝牙/蓝牙协议栈介绍 - CSDN 博客.md",
-    "创建链接.md",
-    "未命名.md",
+    "蓝牙/计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library).pdf.md",
+    "蓝牙/彻底了解 BLE mesh   - CSDN 博客.md",
+    "蓝牙/《Telink B85m BLE Single Connection SDK Developer Handbook》阅读笔记.md",
+    "蓝牙/《Getting Started with Bluetooth Low Energy Tools and Techniques for Low-Power Networking (Kevin Townsend, Carles Cufí, Akiba etc.) (Z-Library)》阅读笔记.md",
+    "《Intro to Bluetooth Low Energy (Mohammad Afaneh) (Z-Library)》阅读笔记.md",
+    "Missing Semester",
+    "《计算机科学丛书 嵌入式系统 硬件、软件及软硬件协同 原书第2版 (（美）塔米·诺尔加德（Tammy Noergaard）著) (Z-Library)》阅读笔记.md",
+    "接口/FPGE配置接口.md",
+    "接口",
+    "《Telink SIG Mesh SDK Developer Handbook》阅读笔记.md",
+    "《Getting Started with Bluetooth Low Energy Tools and Techniques for Low-Power Networking (Kevin Townsend, Carles Cufí, Akiba etc.) (Z-Library)》阅读笔记.md",
+    "work/719.md",
     "Leave.md",
+    "Media Note - 【BLE系列课】6.2.1 低功耗蓝牙(BLE)的协议体系结构1.md",
     "simpread-吐血推荐历史最全的蓝牙协议栈介绍 - CSDN 博客.md",
     "Problem Set.md",
-    "Media Note - 【BLE系列课】6.2.1 低功耗蓝牙(BLE)的协议体系结构1.md",
-    "阅读笔记模板.md",
-    "work/715.md",
-    "work/716.md",
-    "work/719.md",
-    "新建文本文档.txt",
+    "Pasted image 20250716122129.png",
     "Pasted image 20250717191321.png",
     "Pasted image 20250717170539.png",
     "Pasted image 20250716185611.png",
-    "Pasted image 20250716122129.png",
-    "Pasted image 20250715165707.png",
+    "Pasted image 20250715134048.png",
     "Pasted image 20250715150131.png",
+    "Pasted image 20250715165707.png",
+    "work",
     "Pasted image 20250715150050.png",
     "Pasted image 20250715142227.png",
     "Pasted image 20250715134258.png",
-    "Pasted image 20250715134127.png",
-    "ismism",
+    "蓝牙",
+    "Lacan",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
